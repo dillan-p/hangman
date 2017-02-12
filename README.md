@@ -1,6 +1,6 @@
 # Hangman
 
-This repository creates a gme of Hangman. It's implemented in Ruby.
+This repository creates a game of Hangman. It's implemented in Ruby.
 
 ## Development
 
